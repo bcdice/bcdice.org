@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <meta property="og:title" content="Sinji's View">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="酒田　シンジが気になったことをテキトーに書くブログ">
+  <meta property="og:url" content="https://blog.sakasin.net/">
+  <meta property="og:image" content="https://blog.sakasin.net/image/icon_NKMR_YA.png">
+  <meta property="og:site_name" content="Sinji's View">
+  <meta property="og:email" content="ysakasin@gmail.com">
+  <meta name="twitter:card" content="summary"> -->
+
+  <title>BCDice</title>
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
+</head>
+
+<body>
+<header>
+  <div class="container newline-hint">
+    <a href="/">
+      <h1>BCDice</h1>
+      <h2><span>A TRPG Dice-roll Engine:</span> <span>Bones & Cards</span></h2>
+    </a>
+  </div>
+</header>
+
+<div class="intro">
+  <div class="container flex">
+    <div class="invite">
+      <a class="btn discord" href="{{ site.discord_invite_url }}">{% include icon-discord.svg %}<span>公式チャット</span></a>
+      <a class="btn google-forms" href="{{ site.google_forms_url}}">{% include icon-google-forms.svg %}<span>お問い合わせ</span></a>
+      <a class="btn github" href="{{ site.github_repo_url }}">{% include icon-github.svg %} <span>ソースコード</span></a>
+    </div>
+    <div class="code newline-hint">
+      <p><span>ysakasin :</span> <span>CC(1)<=70</span> <span>近接格闘ナイフ</span></p>
+      <p class="green"><span>Cthulhu7th :</span> <span>(1D100<=70)</span> <span>ボーナス・ペナルティダイス[1]</span> <span>＞ 71, 1 ＞ 1 ＞ クリティカル</span></p>
+      <p><span>KP :</span> <span>CC<=60</span> <span>近接格闘で応戦</span></p>
+      <p class="green"><span>Cthulhu7th :</span> <span>(1D100<=60)</span> <span>ボーナス・ペナルティダイス[0]</span> <span>＞ 78 ＞ 78 ＞ 失敗</span></p>
+      <p><span>ysakasin :</span> <span>1D4+4</span> <span>ナイフダメージ</span></p>
+      <p class="green"><span>Cthulhu7th :</span> <span>(1D4+4)</span> <span>＞ 3[3]+4 ＞ 7</span></p>
+    </div>
+  </div>
+</div>
+
+<article class="container">
+  <section class="summary">
+    <h1>BCDiceとは…</h1>
+    <p>日本で最も使われている、TRPG用ダイスロール処理システムです。<a href="http://www.dodontof.com/">どどんとふ</a>、<a href="https://ccfolia.com/">ココフォリア</a>、<a href="https://udonarium.app/">ユドナリウム</a>、<a href="https://trpg-studio.com/">TRPGスタジオ</a>など様々なオンセツールで使われています。</p>
+  </section>
+
+  <section>
+    <h2>対応ゲームシステム</h2>
+    <ul class="newline-hint">
+      <li><span>クトゥルフ神話TRPG,</span> <span>新クトゥルフ神話TRPG</span></li>
+      <li>ソード・ワールドRPG, 2.0, 2.5</li>
+      <li>シノビガミ</li>
+      <li>インセイン</li>
+      <li>アリアンロッドRPG, 2E</li>
+      <li><span>ダブルクロス The 2nd Edition</span>, <span>The 3rd Edition</span></li>
+      <li>永い後日談のネクロニカ</li>
+      <li>マギカロギア</li>
+      <li>メタリックガーディアンRPG</li>
+      <li>ログ・ホライズンTRPG</li>
+      <li>銀剣のステラナイツ</li>
+      <li>フタリソウサ</li>
+    </ul>
+    <p>など<strong>100以上のシステム</strong>に対応</p>
+
+    <p><a href="/system-list">対応ゲームシステム一覧</a></p>
+  </section>
+
+  <section>
+  <h2>要望・バグ報告・お問い合わせ</h2>
+  <p>BCDiceはコミュニティで開発をしており、要望やバグ報告、未対応システムへのソースコード寄稿等を歓迎しています。以下のいずれかの方法でご連絡ください。</p>
+  <ul>
+    <li><a href="{{ site.discord_invite_url }}">Discord</a></li>
+    <li><a href="{{ site.google_forms_url }}">Googleフォーム</a></li>
+    <li><a href="{{ site.github_repo_url }}">GitHub</a></li>
+    <li><a href="https://twitter.com/ysakasin">酒田　シンジのTwitter</a></li>
+  </ul>
+  </section>
+
+  <section>
+    <h2>BCDiceの来歴</h2>
+    <p>BCDiceは<a href="https://twitter.com/Faceless192x">Faseless</a>によってIRCボットとして作成されました。それを、<a href="https://twitter.com/torgtaitai">たいたい竹流</a>がどどんとふで利用したことで広く普及しました。その後はどどんとふと一体となって管理されてきましたが、どどんとふの開発終了に伴い<a href="https://twitter.com/ysakasin">酒田　シンジ</a>がBCDiceのメンテナンスを引き継ぎ、現在に至ります。</p>
+  </section>
+</article>
+
+<footer>
+  <div class="footer-sns">
+    <a href="{{ site.discord_invite_url }}">{% include icon-discord.svg %}</a>
+    <a href="{{ site.github_org_url }}">{% include icon-github.svg %}</a>
+  </div>
+  <p>&copy; 2020 BCDice Project</p>
+</footer>
+
+</body>
+</html>
