@@ -58,3 +58,6 @@ github_org_url: https://github.com/bcdice
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - script/

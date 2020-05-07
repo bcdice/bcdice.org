@@ -1,0 +1,880 @@
+{
+  "version": "2.05.00",
+  "systems": {
+    "あ": [
+      {
+        "system": "EarthDawn",
+        "name": "アースドーン",
+        "sort_key": "ああすとおん"
+      },
+      {
+        "system": "EarthDawn3",
+        "name": "アースドーン3版",
+        "sort_key": "ああすとおん3"
+      },
+      {
+        "system": "EarthDawn4",
+        "name": "アースドーン4版",
+        "sort_key": "ああすとおん4"
+      },
+      {
+        "system": "Airgetlamh",
+        "name": "朱の孤塔のエアゲトラム",
+        "sort_key": "あけのことうのえあけとらむ"
+      },
+      {
+        "system": "AFF2e",
+        "name": "ADVANCED FIGHTING FANTASY 2nd Edition",
+        "sort_key": "あとはんすとふあいていんくふあんたしい2"
+      },
+      {
+        "system": "Amadeus",
+        "name": "アマデウス",
+        "sort_key": "あまてうす"
+      },
+      {
+        "system": "Arianrhod",
+        "name": "アリアンロッド",
+        "sort_key": "ありあんろつと"
+      },
+      {
+        "system": "Alshard",
+        "name": "アルシャード",
+        "sort_key": "あるしやあと"
+      },
+      {
+        "system": "ArsMagica",
+        "name": "アルスマギカ",
+        "sort_key": "あるすまきか"
+      },
+      {
+        "system": "Alter_raise",
+        "name": "心衝想機TRPGアルトレイズ",
+        "sort_key": "あるとれいす"
+      },
+      {
+        "system": "IthaWenUa",
+        "name": "イサー・ウェン＝アー",
+        "sort_key": "いさあうえんああ"
+      },
+      {
+        "system": "YearZeroEngine",
+        "name": "イヤーゼロエンジン",
+        "sort_key": "いやあせろえんしん"
+      },
+      {
+        "system": "Illusio",
+        "name": "晃天のイルージオ",
+        "sort_key": "いるうしお"
+      },
+      {
+        "system": "Insane",
+        "name": "インセイン",
+        "sort_key": "いんせいん"
+      },
+      {
+        "system": "WitchQuest",
+        "name": "ウィッチクエスト",
+        "sort_key": "ういつちくえすと"
+      },
+      {
+        "system": "Warhammer",
+        "name": "ウォーハンマー",
+        "sort_key": "うおおはんまあ"
+      },
+      {
+        "system": "Utakaze",
+        "name": "ウタカゼ",
+        "sort_key": "うたかせ"
+      },
+      {
+        "system": "Alsetto",
+        "name": "詩片のアルセット",
+        "sort_key": "うたかたのあるせつと"
+      },
+      {
+        "system": "AceKillerGene",
+        "name": "エースキラージーン",
+        "sort_key": "ええすきらあしいん"
+      },
+      {
+        "system": "EclipsePhase",
+        "name": "エクリプス・フェイズ",
+        "sort_key": "えくりふすふえいす"
+      },
+      {
+        "system": "EmbryoMachine",
+        "name": "エムブリオマシン",
+        "sort_key": "えむふりおましん"
+      },
+      {
+        "system": "Elysion",
+        "name": "エリュシオン",
+        "sort_key": "えりゆしおん"
+      },
+      {
+        "system": "Elric!",
+        "name": "エルリック！",
+        "sort_key": "えるりつく"
+      },
+      {
+        "system": "EndBreaker",
+        "name": "エンドブレイカー",
+        "sort_key": "えんとふれいかあ"
+      },
+      {
+        "system": "Oukahoushin3rd",
+        "name": "央華封神RPG第三版",
+        "sort_key": "おうかほうしん3"
+      },
+      {
+        "system": "OrgaRain",
+        "name": "在りて遍くオルガレイン",
+        "sort_key": "おるかれいん"
+      }
+    ],
+    "か": [
+      {
+        "system": "GardenOrder",
+        "name": "ガーデンオーダー",
+        "sort_key": "かあてんおおたあ"
+      },
+      {
+        "system": "CardRanker",
+        "name": "カードランカー",
+        "sort_key": "かあとらんかあ"
+      },
+      {
+        "system": "GURPS",
+        "name": "ガープス",
+        "sort_key": "かあふす"
+      },
+      {
+        "system": "GurpsFW",
+        "name": "ガープスフィルトウィズ",
+        "sort_key": "かあふすふいるとういす"
+      },
+      {
+        "system": "Chaos Flare",
+        "name": "カオスフレア",
+        "sort_key": "かおすふれあ"
+      },
+      {
+        "system": "OneWayHeroics",
+        "name": "片道勇者",
+        "sort_key": "かたみちゆうしや"
+      },
+      {
+        "system": "Kamigakari",
+        "name": "神我狩",
+        "sort_key": "かみかかり"
+      },
+      {
+        "system": "Garako",
+        "name": "ガラコと破界の塔",
+        "sort_key": "からことはかいのとう"
+      },
+      {
+        "system": "KanColle",
+        "name": "艦これRPG",
+        "sort_key": "かんこれRPG"
+      },
+      {
+        "system": "Gundog",
+        "name": "ガンドッグ",
+        "sort_key": "かんとつく"
+      },
+      {
+        "system": "GundogZero",
+        "name": "ガンドッグ・ゼロ",
+        "sort_key": "かんとつくせろ"
+      },
+      {
+        "system": "GundogRevised",
+        "name": "ガンドッグ・リヴァイズド",
+        "sort_key": "かんとつくりうあいすと"
+      },
+      {
+        "system": "KillDeathBusiness",
+        "name": "キルデスビジネス",
+        "sort_key": "きるてすひしねす"
+      },
+      {
+        "system": "StellarKnights",
+        "name": "銀剣のステラナイツ",
+        "sort_key": "きんけんのすてらないつ"
+      },
+      {
+        "system": "Cthulhu",
+        "name": "クトゥルフ",
+        "sort_key": "くとうるふ"
+      },
+      {
+        "system": "CthulhuTech",
+        "name": "クトゥルフテック",
+        "sort_key": "くとうるふてつく"
+      },
+      {
+        "system": "KurayamiCrying",
+        "name": "クラヤミクライン",
+        "sort_key": "くらやみくらいん"
+      },
+      {
+        "system": "GranCrest",
+        "name": "グランクレスト",
+        "sort_key": "くらんくれすと"
+      },
+      {
+        "system": "GeishaGirlwithKatana",
+        "name": "ゲイシャ・ガール・ウィズ・カタナ",
+        "sort_key": "けいしやかあるういすかたな"
+      },
+      {
+        "system": "GehennaAn",
+        "name": "ゲヘナ・アナスタシス",
+        "sort_key": "けへなあなすたしす"
+      },
+      {
+        "system": "KemonoNoMori",
+        "name": "獸ノ森",
+        "sort_key": "けもののもり"
+      },
+      {
+        "system": "StrangerOfSwordCity",
+        "name": "剣の街の異邦人TRPG",
+        "sort_key": "けんのまちのいほうしんTRPG"
+      },
+      {
+        "system": "CodeLayerd",
+        "name": "コード：レイヤード",
+        "sort_key": "こおとれいやあと"
+      },
+      {
+        "system": "Avandner",
+        "name": "黒絢のアヴァンドナー",
+        "sort_key": "こつけんのあうあんとなあ"
+      },
+      {
+        "system": "Gorilla",
+        "name": "ゴリラTRPG",
+        "sort_key": "こりらTRPG"
+      },
+      {
+        "system": "ColossalHunter",
+        "name": "コロッサルハンター",
+        "sort_key": "ころつさるはんたあ"
+      }
+    ],
+    "さ": [
+      {
+        "system": "Satasupe",
+        "name": "サタスペ",
+        "sort_key": "さたすへ"
+      },
+      {
+        "system": "SharedFantasia",
+        "name": "Shared†Fantasia",
+        "sort_key": "しえああとふあんたしあ"
+      },
+      {
+        "system": "JamesBond",
+        "name": "ジェームズ・ボンド007",
+        "sort_key": "しええむすほんと007"
+      },
+      {
+        "system": "ShinobiGami",
+        "name": "シノビガミ",
+        "sort_key": "しのひかみ"
+      },
+      {
+        "system": "ShadowRun",
+        "name": "シャドウラン",
+        "sort_key": "しやとうらん"
+      },
+      {
+        "system": "ShadowRun4",
+        "name": "シャドウラン第4版",
+        "sort_key": "しやとうらん4"
+      },
+      {
+        "system": "ShadowRun5",
+        "name": "シャドウラン第5版",
+        "sort_key": "しやとうらん5"
+      },
+      {
+        "system": "ShoujoTenrankai",
+        "name": "少女展爛会",
+        "sort_key": "しようしよてんらんかい"
+      },
+      {
+        "system": "ShinkuuGakuen",
+        "name": "真空学園",
+        "sort_key": "しんくうかくえん"
+      },
+      {
+        "system": "Cthulhu7th",
+        "name": "新クトゥルフ",
+        "sort_key": "しんくとうるふ"
+      },
+      {
+        "system": "SMTKakuseihen",
+        "name": "真・女神転生TRPG　覚醒篇",
+        "sort_key": "しんめかみてんせいTRPGかくせいへん"
+      },
+      {
+        "system": "Skynauts",
+        "name": "歯車の塔の探空士",
+        "sort_key": "すかいのおつ"
+      },
+      {
+        "system": "ScreamHighSchool",
+        "name": "スクリームハイスクール",
+        "sort_key": "すくりいむはいすくうる"
+      },
+      {
+        "system": "SRS",
+        "name": "Standard RPG System",
+        "sort_key": "すたんたあとRPGしすてむ"
+      },
+      {
+        "system": "SterileLife",
+        "name": "ステラーライフ",
+        "sort_key": "すてらあらいふ"
+      },
+      {
+        "system": "StratoShout",
+        "name": "ストラトシャウト",
+        "sort_key": "すとらとしやうと"
+      },
+      {
+        "system": "TherapieSein",
+        "name": "青春疾患セラフィザイン",
+        "sort_key": "せいしゆんしつかんせらふいさいん"
+      },
+      {
+        "system": "EtrianOdysseySRS",
+        "name": "世界樹の迷宮SRS",
+        "sort_key": "せかいしゆのめいきゆうSRS"
+      },
+      {
+        "system": "ZettaiReido",
+        "name": "絶対隷奴",
+        "sort_key": "せつたいれいと"
+      },
+      {
+        "system": "SevenFortressMobius",
+        "name": "セブン＝フォートレス メビウス",
+        "sort_key": "せふんふおおとれすめひうす"
+      },
+      {
+        "system": "Villaciel",
+        "name": "蒼天のヴィラシエル",
+        "sort_key": "そうてんのういらしえる"
+      },
+      {
+        "system": "SwordWorld",
+        "name": "ソードワールド",
+        "sort_key": "そおとわあると"
+      },
+      {
+        "system": "SwordWorld2.0",
+        "name": "ソードワールド2.0",
+        "sort_key": "そおとわあると2.0"
+      },
+      {
+        "system": "SwordWorld2.5",
+        "name": "ソードワールド2.5",
+        "sort_key": "そおとわあると2.5"
+      }
+    ],
+    "た": [
+      {
+        "system": "DarkSouls",
+        "name": "ダークソウルTRPG",
+        "sort_key": "たあくそうるTRPG"
+      },
+      {
+        "system": "DarkDaysDrive",
+        "name": "ダークデイズドライブ",
+        "sort_key": "たあくていすとらいふ"
+      },
+      {
+        "system": "DarkBlaze",
+        "name": "ダークブレイズ",
+        "sort_key": "たあくふれいす"
+      },
+      {
+        "system": "DiceOfTheDead",
+        "name": "ダイス・オブ・ザ・デッド",
+        "sort_key": "たいすおふさてつと"
+      },
+      {
+        "system": "DoubleCross",
+        "name": "ダブルクロス2nd,3rd",
+        "sort_key": "たふるくろす2"
+      },
+      {
+        "system": "DungeonsAndDragons",
+        "name": "ダンジョンズ＆ドラゴンズ",
+        "sort_key": "たんしよんすあんととらこんす"
+      },
+      {
+        "system": "Paradiso",
+        "name": "チェレステ色のパラディーゾ",
+        "sort_key": "ちえれすていろのはらていいそ"
+      },
+      {
+        "system": "Chill",
+        "name": "Chill",
+        "sort_key": "ちる"
+      },
+      {
+        "system": "Chill3",
+        "name": "Chill 3",
+        "sort_key": "ちる3"
+      },
+      {
+        "system": "CrashWorld",
+        "name": "墜落世界",
+        "sort_key": "ついらくせかい"
+      },
+      {
+        "system": "DetatokoSaga",
+        "name": "でたとこサーガ",
+        "sort_key": "てたとこさあか"
+      },
+      {
+        "system": "DeadlineHeroes",
+        "name": "デッドラインヒーローズ",
+        "sort_key": "てつとらいんひいろおす"
+      },
+      {
+        "system": "DemonParasite",
+        "name": "デモンパラサイト",
+        "sort_key": "てもんはらさいと"
+      },
+      {
+        "system": "TokyoGhostResearch",
+        "name": "東京ゴーストリサーチ",
+        "sort_key": "とうきようこおすとりさあち"
+      },
+      {
+        "system": "TokyoNova",
+        "name": "トーキョーＮ◎ＶＡ",
+        "sort_key": "とおきよおのは"
+      },
+      {
+        "system": "TORG",
+        "name": "トーグ",
+        "sort_key": "とおく"
+      },
+      {
+        "system": "TORG1.5",
+        "name": "トーグ1.5版",
+        "sort_key": "とおく1.5"
+      },
+      {
+        "system": "TorgEternity",
+        "name": "TORG Eternity",
+        "sort_key": "とおくえたあにてい"
+      },
+      {
+        "system": "TokumeiTenkousei",
+        "name": "特命転攻生",
+        "sort_key": "とくめいてんこうせい"
+      },
+      {
+        "system": "Dracurouge",
+        "name": "ドラクルージュ",
+        "sort_key": "とらくるうしゆ"
+      },
+      {
+        "system": "TrinitySeven",
+        "name": "トリニティセブンRPG",
+        "sort_key": "とりにていせふんRPG"
+      },
+      {
+        "system": "TwilightGunsmoke",
+        "name": "トワイライト・ガンスモーク",
+        "sort_key": "とわいらいとかんすもおく"
+      },
+      {
+        "system": "Tunnels & Trolls",
+        "name": "トンネルズ＆トロールズ",
+        "sort_key": "とんねるすあんととろおるす"
+      }
+    ],
+    "な": [
+      {
+        "system": "NightWizard",
+        "name": "ナイトウィザード2版",
+        "sort_key": "ないとういさあと2"
+      },
+      {
+        "system": "NightWizard3rd",
+        "name": "ナイトウィザード3版",
+        "sort_key": "ないとういさあと3"
+      },
+      {
+        "system": "NightmareHunterDeep",
+        "name": "ナイトメアハンター=ディープ",
+        "sort_key": "ないとめあはんたあていいふ"
+      },
+      {
+        "system": "NinjaSlayer",
+        "name": "ニンジャスレイヤーTRPG",
+        "sort_key": "にんしやすれいやあRPG"
+      },
+      {
+        "system": "NJSLYRBATTLE",
+        "name": "NJSLYRBATTLE",
+        "sort_key": "にんしやすれいやあはとる"
+      },
+      {
+        "system": "Nuekagami",
+        "name": "鵺鏡",
+        "sort_key": "ぬえかかみ"
+      },
+      {
+        "system": "Nechronica",
+        "name": "ネクロニカ",
+        "sort_key": "ねくろにか"
+      }
+    ],
+    "は": [
+      {
+        "system": "HarnMaster",
+        "name": "ハーンマスター",
+        "sort_key": "はあんますたあ"
+      },
+      {
+        "system": "Pathfinder",
+        "name": "Pathfinder",
+        "sort_key": "はすふあいんたあ"
+      },
+      {
+        "system": "BadLife",
+        "name": "犯罪活劇RPGバッドライフ",
+        "sort_key": "はつとらいふ"
+      },
+      {
+        "system": "HatsuneMiku",
+        "name": "初音ミクTRPG ココロダンジョン",
+        "sort_key": "はつねみくTRPGこころたんしよん"
+      },
+      {
+        "system": "BattleTech",
+        "name": "バトルテック",
+        "sort_key": "はとるてつく"
+      },
+      {
+        "system": "ParasiteBlood",
+        "name": "パラサイトブラッド",
+        "sort_key": "はらさいとふらつと"
+      },
+      {
+        "system": "Paranoia",
+        "name": "パラノイア",
+        "sort_key": "はらのいあ"
+      },
+      {
+        "system": "BarnaKronika",
+        "name": "バルナ・クロニカ",
+        "sort_key": "はるなくろにか"
+      },
+      {
+        "system": "PulpCthulhu",
+        "name": "パルプ・クトゥルフ",
+        "sort_key": "はるふくとうるふ"
+      },
+      {
+        "system": "Raisondetre",
+        "name": "叛逆レゾンデートル",
+        "sort_key": "はんきやくれそんてとおる"
+      },
+      {
+        "system": "HuntersMoon",
+        "name": "ハンターズムーン",
+        "sort_key": "はんたあすむうん"
+      },
+      {
+        "system": "Peekaboo",
+        "name": "ピーカーブー",
+        "sort_key": "ひいかあふう"
+      },
+      {
+        "system": "BeastBindTrinity",
+        "name": "ビーストバインド トリニティ",
+        "sort_key": "ひいすとはいんととりにてい"
+      },
+      {
+        "system": "BBN",
+        "name": "BBNTRPG",
+        "sort_key": "ひいひいえぬTRPG"
+      },
+      {
+        "system": "Hieizan",
+        "name": "比叡山炎上",
+        "sort_key": "ひえいさんえんしよう"
+      },
+      {
+        "system": "BeginningIdol",
+        "name": "ビギニングアイドル",
+        "sort_key": "ひきにんくあいとる"
+      },
+      {
+        "system": "PhantasmAdventure",
+        "name": "ファンタズムアドベンチャー",
+        "sort_key": "ふあんたすむあとへんちやあ"
+      },
+      {
+        "system": "FilledWith",
+        "name": "フィルトウィズ",
+        "sort_key": "ふいるとういす"
+      },
+      {
+        "system": "FutariSousa",
+        "name": "フタリソウサ",
+        "sort_key": "ふたりそうさ"
+      },
+      {
+        "system": "BlindMythos",
+        "name": "ブラインド・ミトス",
+        "sort_key": "ふらいんとみとす"
+      },
+      {
+        "system": "BloodCrusade",
+        "name": "ブラッド・クルセイド",
+        "sort_key": "ふらつとくるせいと"
+      },
+      {
+        "system": "BloodMoon",
+        "name": "ブラッド・ムーン",
+        "sort_key": "ふらつとむうん"
+      },
+      {
+        "system": "FullMetalPanic",
+        "name": "フルメタル・パニック！",
+        "sort_key": "ふるめたるはにつく"
+      },
+      {
+        "system": "BladeOfArcana",
+        "name": "ブレイド・オブ・アルカナ",
+        "sort_key": "ふれいとおふあるかな"
+      },
+      {
+        "system": "Strave",
+        "name": "碧空のストレイヴ",
+        "sort_key": "へきくうのすとれいふ"
+      },
+      {
+        "system": "Pendragon",
+        "name": "ペンドラゴン",
+        "sort_key": "へんとらこん"
+      },
+      {
+        "system": "HouraiGakuen",
+        "name": "蓬莱学園の冒険!!",
+        "sort_key": "ほうらいかくえんのほうけん"
+      },
+      {
+        "system": "Postman",
+        "name": "壊れた世界のポストマン",
+        "sort_key": "ほすとまん"
+      }
+    ],
+    "ま": [
+      {
+        "system": "MagicaLogia",
+        "name": "マギカロギア",
+        "sort_key": "まきかろきあ"
+      },
+      {
+        "system": "InfiniteFantasia",
+        "name": "無限のファンタジア",
+        "sort_key": "むけんのふあんたしあ"
+      },
+      {
+        "system": "MeikyuKingdom",
+        "name": "迷宮キングダム",
+        "sort_key": "めいきゆうきんくたむ"
+      },
+      {
+        "system": "MeikyuKingdomBasic",
+        "name": "迷宮キングダム 基本ルールブック",
+        "sort_key": "めいきゆうきんくたむ きほんるうるふつく"
+      },
+      {
+        "system": "MeikyuDays",
+        "name": "迷宮デイズ",
+        "sort_key": "めいきゆうていす"
+      },
+      {
+        "system": "MetallicGuadian",
+        "name": "メタリックガーディアン",
+        "sort_key": "めたりつくかあていあん"
+      },
+      {
+        "system": "MetalHead",
+        "name": "メタルヘッド",
+        "sort_key": "めたるへつと"
+      },
+      {
+        "system": "MetalHeadExtream",
+        "name": "メタルヘッドエクストリーム",
+        "sort_key": "めたるへつとえくすとりいむ"
+      },
+      {
+        "system": "MonotoneMuseum",
+        "name": "モノトーン・ミュージアム",
+        "sort_key": "ものとおんみゆうしあむ"
+      },
+      {
+        "system": "YankeeYogSothoth",
+        "name": "ヤンキー＆ヨグ＝ソトース",
+        "sort_key": "やんきいあんとよくそとおす"
+      },
+      {
+        "system": "GoldenSkyStories",
+        "name": "ゆうやけこやけ",
+        "sort_key": "ゆうやけこやけ"
+      }
+    ],
+    "ら": [
+      {
+        "system": "LiveraDoll",
+        "name": "紫縞のリヴラドール",
+        "sort_key": "りうらとおる"
+      },
+      {
+        "system": "Ryutama",
+        "name": "りゅうたま",
+        "sort_key": "りゆうたま"
+      },
+      {
+        "system": "RuneQuest",
+        "name": "ルーンクエスト",
+        "sort_key": "るうんくえすと"
+      },
+      {
+        "system": "RecordOfSteam",
+        "name": "Record of Steam",
+        "sort_key": "れこおとおふすちいむ"
+      },
+      {
+        "system": "RoleMaster",
+        "name": "ロールマスター",
+        "sort_key": "ろおるますたあ"
+      },
+      {
+        "system": "LogHorizon",
+        "name": "ログ・ホライズン",
+        "sort_key": "ろくほらいすん"
+      },
+      {
+        "system": "RokumonSekai2",
+        "name": "六門世界2nd",
+        "sort_key": "ろくもんせかい2"
+      },
+      {
+        "system": "LostRecord",
+        "name": "ロストレコード",
+        "sort_key": "ろすとれこおと"
+      },
+      {
+        "system": "LostRoyal",
+        "name": "ロストロイヤル",
+        "sort_key": "ろすとろいやる"
+      }
+    ],
+    "わ": [
+      {
+        "system": "WaresBlade",
+        "name": "ワースブレイド",
+        "sort_key": "わあすふれいと"
+      },
+      {
+        "system": "WARPS",
+        "name": "ワープス",
+        "sort_key": "わあふす"
+      },
+      {
+        "system": "WorldOfDarkness",
+        "name": "ワールドオブダークネス",
+        "sort_key": "わあるとおふたあくねす"
+      }
+    ],
+    "International": [
+      {
+        "system": "Cthulhu7th:ChineseTraditional",
+        "name": "克蘇魯神話第7版",
+        "sort_key": "国際化:Chinese Traditional:克蘇魯神話"
+      },
+      {
+        "system": "Cthulhu:ChineseTraditional",
+        "name": "克蘇魯神話",
+        "sort_key": "国際化:Chinese Traditional:克蘇魯神話7"
+      },
+      {
+        "system": "KillDeathBusiness:Korean",
+        "name": "Kill Death Business (한국어)",
+        "sort_key": "国際化:Korean:Kill Death Business"
+      },
+      {
+        "system": "Nechronica:Korean",
+        "name": "네크로니카",
+        "sort_key": "国際化:Korean:네크로니카"
+      },
+      {
+        "system": "DetatokoSaga:Korean",
+        "name": "데타토코 사가",
+        "sort_key": "国際化:Korean:데타토코 사가"
+      },
+      {
+        "system": "Dracurouge:Korean",
+        "name": "드라크루주",
+        "sort_key": "国際化:Korean:드라크루주"
+      },
+      {
+        "system": "LogHorizon:Korean",
+        "name": "로그 호라이즌",
+        "sort_key": "国際化:Korean:로그 호라이즌"
+      },
+      {
+        "system": "MonotoneMuseum:Korean",
+        "name": "모노톤 뮤지엄",
+        "sort_key": "国際化:Korean:모노톤 뮤지엄"
+      },
+      {
+        "system": "BeginningIdol:Korean",
+        "name": "비기닝 아이돌",
+        "sort_key": "国際化:Korean:비기닝 아이돌"
+      },
+      {
+        "system": "Amadeus:Korean",
+        "name": "아마데우스",
+        "sort_key": "国際化:Korean:아마데우스"
+      },
+      {
+        "system": "Insane:Korean",
+        "name": "인세인",
+        "sort_key": "国際化:Korean:인세인"
+      },
+      {
+        "system": "Kamigakari:Korean",
+        "name": "카미가카리",
+        "sort_key": "国際化:Korean:카미가카리"
+      },
+      {
+        "system": "Cthulhu7th:Korean",
+        "name": "크툴루의 부름 7판",
+        "sort_key": "国際化:Korean:크툴루"
+      },
+      {
+        "system": "Cthulhu:Korean",
+        "name": "크툴루",
+        "sort_key": "国際化:Korean:크툴루의부름7"
+      }
+    ]
+  }
+}
