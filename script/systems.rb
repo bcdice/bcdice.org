@@ -19,7 +19,7 @@ systems = fetch_systems()
 
 # Grouping
 def group(sort_key)
-  %w[あ か さ た な は や ま ら わ 国].reverse.each do |row|
+  %w[あ か さ た な は ま や ら わ 国].reverse.each do |row|
     if sort_key[0] >= row
       return row
     end
