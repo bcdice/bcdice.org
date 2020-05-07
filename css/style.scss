@@ -38,6 +38,8 @@ body {
 }
 
 header {
+  border-bottom: solid 1px #ccc;
+
   h1, h2 {
     margin-top: 0;
     margin-bottom: 0.3rem;
@@ -69,9 +71,8 @@ header {
   }
 }
 
-.intro {
+.intro, .not-found {
   background-color: #f1f1f1;
-  border-top: solid 1px #ccc;
   border-bottom: solid 1px #ccc;
 }
 
@@ -192,6 +193,17 @@ footer {
     a:hover {
       fill: #888;
     }
+  }
+}
+
+.not-found {
+  text-align: center;
+
+  h1 {
+    margin: 1rem 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
   }
 }
 
