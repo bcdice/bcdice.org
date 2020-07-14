@@ -1,5 +1,5 @@
 {
-  "version": "2.05.00",
+  "version": "2.07.01",
   "systems": {
     "あ": [
       {
@@ -28,14 +28,24 @@
         "sort_key": "あとはんすとふあいていんくふあんたしい2"
       },
       {
+        "system": "AnimaAnimus",
+        "name": "アニマアニムス",
+        "sort_key": "あにまあにむす"
+      },
+      {
         "system": "Amadeus",
         "name": "アマデウス",
         "sort_key": "あまてうす"
       },
       {
         "system": "Arianrhod",
-        "name": "アリアンロッド",
-        "sort_key": "ありあんろつと"
+        "name": "アリアンロッドRPG",
+        "sort_key": "ありあんろつとRPG"
+      },
+      {
+        "system": "OrgaRain",
+        "name": "在りて遍くオルガレイン",
+        "sort_key": "ありてあまねくおるかれいん"
       },
       {
         "system": "Alshard",
@@ -48,8 +58,8 @@
         "sort_key": "あるすまきか"
       },
       {
-        "system": "Alter_raise",
-        "name": "心衝想機TRPGアルトレイズ",
+        "system": "AlterRaise",
+        "name": "アルトレイズ",
         "sort_key": "あるとれいす"
       },
       {
@@ -59,18 +69,18 @@
       },
       {
         "system": "YearZeroEngine",
-        "name": "イヤーゼロエンジン",
+        "name": "YearZeroEngine",
         "sort_key": "いやあせろえんしん"
-      },
-      {
-        "system": "Illusio",
-        "name": "晃天のイルージオ",
-        "sort_key": "いるうしお"
       },
       {
         "system": "Insane",
         "name": "インセイン",
         "sort_key": "いんせいん"
+      },
+      {
+        "system": "VampireTheMasquerade5th",
+        "name": "ヴァンパイア：ザ マスカレード 第５版",
+        "sort_key": "うあんはいあさますかれえと5"
       },
       {
         "system": "WitchQuest",
@@ -104,8 +114,8 @@
       },
       {
         "system": "EmbryoMachine",
-        "name": "エムブリオマシン",
-        "sort_key": "えむふりおましん"
+        "name": "エムブリオマシンRPG",
+        "sort_key": "えむふりおましんRPG"
       },
       {
         "system": "Elysion",
@@ -113,24 +123,24 @@
         "sort_key": "えりゆしおん"
       },
       {
-        "system": "Elric!",
+        "system": "Elric",
         "name": "エルリック！",
         "sort_key": "えるりつく"
       },
       {
         "system": "EndBreaker",
-        "name": "エンドブレイカー",
+        "name": "エンドブレイカー！",
         "sort_key": "えんとふれいかあ"
       },
       {
         "system": "Oukahoushin3rd",
-        "name": "央華封神RPG第三版",
-        "sort_key": "おうかほうしん3"
+        "name": "央華封神RPG 第三版",
+        "sort_key": "おうかほうしんRPG3"
       },
       {
-        "system": "OrgaRain",
-        "name": "在りて遍くオルガレイン",
-        "sort_key": "おるかれいん"
+        "system": "OracleEngine",
+        "name": "オラクルエンジン",
+        "sort_key": "おらくるえんしん"
       }
     ],
     "か": [
@@ -155,14 +165,14 @@
         "sort_key": "かあふすふいるとういす"
       },
       {
-        "system": "Chaos Flare",
+        "system": "ChaosFlare",
         "name": "カオスフレア",
         "sort_key": "かおすふれあ"
       },
       {
         "system": "OneWayHeroics",
-        "name": "片道勇者",
-        "sort_key": "かたみちゆうしや"
+        "name": "片道勇者TRPG",
+        "sort_key": "かたみちゆうしやTRPG"
       },
       {
         "system": "Kamigakari",
@@ -186,7 +196,7 @@
       },
       {
         "system": "GundogZero",
-        "name": "ガンドッグ・ゼロ",
+        "name": "ガンドッグゼロ",
         "sort_key": "かんとつくせろ"
       },
       {
@@ -206,8 +216,8 @@
       },
       {
         "system": "Cthulhu",
-        "name": "クトゥルフ",
-        "sort_key": "くとうるふ"
+        "name": "クトゥルフ神話TRPG",
+        "sort_key": "くとうるふしんわTRPG"
       },
       {
         "system": "CthulhuTech",
@@ -221,8 +231,8 @@
       },
       {
         "system": "GranCrest",
-        "name": "グランクレスト",
-        "sort_key": "くらんくれすと"
+        "name": "グランクレストRPG",
+        "sort_key": "くらんくれすとRPG"
       },
       {
         "system": "GeishaGirlwithKatana",
@@ -245,6 +255,11 @@
         "sort_key": "けんのまちのいほうしんTRPG"
       },
       {
+        "system": "Illusio",
+        "name": "晃天のイルージオ",
+        "sort_key": "こうてんのいるうしお"
+      },
+      {
         "system": "CodeLayerd",
         "name": "コード：レイヤード",
         "sort_key": "こおとれいやあと"
@@ -263,6 +278,11 @@
         "system": "ColossalHunter",
         "name": "コロッサルハンター",
         "sort_key": "ころつさるはんたあ"
+      },
+      {
+        "system": "Postman",
+        "name": "壊れた世界のポストマン",
+        "sort_key": "こわれたせかいのほすとまん"
       }
     ],
     "さ": [
@@ -270,6 +290,11 @@
         "system": "Satasupe",
         "name": "サタスペ",
         "sort_key": "さたすへ"
+      },
+      {
+        "system": "SamsaraBallad",
+        "name": "サンサーラ・バラッド",
+        "sort_key": "さんさあらはらつと"
       },
       {
         "system": "SharedFantasia",
@@ -280,6 +305,11 @@
         "system": "JamesBond",
         "name": "ジェームズ・ボンド007",
         "sort_key": "しええむすほんと007"
+      },
+      {
+        "system": "LiveraDoll",
+        "name": "紫縞のリヴラドール",
+        "sort_key": "ししまのりうらとおる"
       },
       {
         "system": "ShinobiGami",
@@ -293,18 +323,18 @@
       },
       {
         "system": "ShadowRun4",
-        "name": "シャドウラン第4版",
+        "name": "シャドウラン 4th Edition",
         "sort_key": "しやとうらん4"
       },
       {
         "system": "ShadowRun5",
-        "name": "シャドウラン第5版",
+        "name": "シャドウラン 5th Edition",
         "sort_key": "しやとうらん5"
       },
       {
         "system": "ShoujoTenrankai",
-        "name": "少女展爛会",
-        "sort_key": "しようしよてんらんかい"
+        "name": "少女展爛会TRPG",
+        "sort_key": "しようしよてんらんかいTRPG"
       },
       {
         "system": "ShinkuuGakuen",
@@ -313,12 +343,12 @@
       },
       {
         "system": "Cthulhu7th",
-        "name": "新クトゥルフ",
-        "sort_key": "しんくとうるふ"
+        "name": "新クトゥルフ神話TRPG",
+        "sort_key": "しんくとうるふしんわTRPG"
       },
       {
         "system": "SMTKakuseihen",
-        "name": "真・女神転生TRPG　覚醒篇",
+        "name": "真・女神転生TRPG 覚醒篇",
         "sort_key": "しんめかみてんせいTRPGかくせいへん"
       },
       {
@@ -333,23 +363,23 @@
       },
       {
         "system": "SRS",
-        "name": "Standard RPG System",
+        "name": "スタンダードRPGシステム",
         "sort_key": "すたんたあとRPGしすてむ"
       },
       {
+        "system": "SteamPunkers",
+        "name": "スチームパンカーズ",
+        "sort_key": "すちいむはんかあす"
+      },
+      {
         "system": "SterileLife",
-        "name": "ステラーライフ",
-        "sort_key": "すてらあらいふ"
+        "name": "ステラーライフTRPG",
+        "sort_key": "すてらあらいふTRPG"
       },
       {
         "system": "StratoShout",
         "name": "ストラトシャウト",
         "sort_key": "すとらとしやうと"
-      },
-      {
-        "system": "TherapieSein",
-        "name": "青春疾患セラフィザイン",
-        "sort_key": "せいしゆんしつかんせらふいさいん"
       },
       {
         "system": "EtrianOdysseySRS",
@@ -367,13 +397,18 @@
         "sort_key": "せふんふおおとれすめひうす"
       },
       {
+        "system": "TherapieSein",
+        "name": "セラフィザイン",
+        "sort_key": "せらふいさいん"
+      },
+      {
         "system": "Villaciel",
         "name": "蒼天のヴィラシエル",
         "sort_key": "そうてんのういらしえる"
       },
       {
         "system": "SwordWorld",
-        "name": "ソードワールド",
+        "name": "ソードワールドRPG",
         "sort_key": "そおとわあると"
       },
       {
@@ -430,7 +465,7 @@
       },
       {
         "system": "Chill3",
-        "name": "Chill 3",
+        "name": "Chill 3rd Edition",
         "sort_key": "ちる3"
       },
       {
@@ -445,8 +480,8 @@
       },
       {
         "system": "DeadlineHeroes",
-        "name": "デッドラインヒーローズ",
-        "sort_key": "てつとらいんひいろおす"
+        "name": "デッドラインヒーローズRPG",
+        "sort_key": "てつとらいんひいろおすRPG"
       },
       {
         "system": "DemonParasite",
@@ -460,7 +495,7 @@
       },
       {
         "system": "TokyoNova",
-        "name": "トーキョーＮ◎ＶＡ",
+        "name": "トーキョーN◎VA",
         "sort_key": "とおきよおのは"
       },
       {
@@ -495,11 +530,11 @@
       },
       {
         "system": "TwilightGunsmoke",
-        "name": "トワイライト・ガンスモーク",
+        "name": "トワイライトガンスモーク",
         "sort_key": "とわいらいとかんすもおく"
       },
       {
-        "system": "Tunnels & Trolls",
+        "system": "TunnelsAndTrolls",
         "name": "トンネルズ＆トロールズ",
         "sort_key": "とんねるすあんととろおるす"
       }
@@ -507,12 +542,12 @@
     "な": [
       {
         "system": "NightWizard",
-        "name": "ナイトウィザード2版",
+        "name": "ナイトウィザード The 2nd Edition",
         "sort_key": "ないとういさあと2"
       },
       {
         "system": "NightWizard3rd",
-        "name": "ナイトウィザード3版",
+        "name": "ナイトウィザード The 3rd Edition",
         "sort_key": "ないとういさあと3"
       },
       {
@@ -539,6 +574,11 @@
         "system": "Nechronica",
         "name": "ネクロニカ",
         "sort_key": "ねくろにか"
+      },
+      {
+        "system": "NeverCloud",
+        "name": "ネバークラウドTRPG",
+        "sort_key": "ねはあくらうとTRPG"
       }
     ],
     "は": [
@@ -554,7 +594,7 @@
       },
       {
         "system": "BadLife",
-        "name": "犯罪活劇RPGバッドライフ",
+        "name": "バッドライフ",
         "sort_key": "はつとらいふ"
       },
       {
@@ -569,13 +609,18 @@
       },
       {
         "system": "ParasiteBlood",
-        "name": "パラサイトブラッド",
-        "sort_key": "はらさいとふらつと"
+        "name": "パラサイトブラッドRPG",
+        "sort_key": "はらさいとふらつとRPG"
       },
       {
         "system": "Paranoia",
         "name": "パラノイア",
         "sort_key": "はらのいあ"
+      },
+      {
+        "system": "ParanoiaRebooted",
+        "name": "パラノイア リブーテッド",
+        "sort_key": "はらのいありふうてつと"
       },
       {
         "system": "BarnaKronika",
@@ -594,7 +639,7 @@
       },
       {
         "system": "HuntersMoon",
-        "name": "ハンターズムーン",
+        "name": "ハンターズ・ムーン",
         "sort_key": "はんたあすむうん"
       },
       {
@@ -624,8 +669,13 @@
       },
       {
         "system": "PhantasmAdventure",
-        "name": "ファンタズムアドベンチャー",
+        "name": "ファンタズム・アドベンチャー",
         "sort_key": "ふあんたすむあとへんちやあ"
+      },
+      {
+        "system": "Fiasco",
+        "name": "フィアスコ",
+        "sort_key": "ふいあすこ"
       },
       {
         "system": "FilledWith",
@@ -639,8 +689,8 @@
       },
       {
         "system": "BlindMythos",
-        "name": "ブラインド・ミトス",
-        "sort_key": "ふらいんとみとす"
+        "name": "ブラインド・ミトスRPG",
+        "sort_key": "ふらいんとみとすRPG"
       },
       {
         "system": "BloodCrusade",
@@ -654,8 +704,8 @@
       },
       {
         "system": "FullMetalPanic",
-        "name": "フルメタル・パニック！",
-        "sort_key": "ふるめたるはにつく"
+        "name": "フルメタル・パニック！RPG",
+        "sort_key": "ふるめたるはにつくRPG"
       },
       {
         "system": "BladeOfArcana",
@@ -676,11 +726,6 @@
         "system": "HouraiGakuen",
         "name": "蓬莱学園の冒険!!",
         "sort_key": "ほうらいかくえんのほうけん"
-      },
-      {
-        "system": "Postman",
-        "name": "壊れた世界のポストマン",
-        "sort_key": "ほすとまん"
       }
     ],
     "ま": [
@@ -710,9 +755,9 @@
         "sort_key": "めいきゆうていす"
       },
       {
-        "system": "MetallicGuadian",
-        "name": "メタリックガーディアン",
-        "sort_key": "めたりつくかあていあん"
+        "system": "MetallicGuardian",
+        "name": "メタリックガーディアンRPG",
+        "sort_key": "めたりつくかあていあんRPG"
       },
       {
         "system": "MetalHead",
@@ -726,8 +771,8 @@
       },
       {
         "system": "MonotoneMuseum",
-        "name": "モノトーン・ミュージアム",
-        "sort_key": "ものとおんみゆうしあむ"
+        "name": "モノトーンミュージアムRPG",
+        "sort_key": "ものとおんみゆうしあむRPG"
       }
     ],
     "や": [
@@ -744,11 +789,6 @@
     ],
     "ら": [
       {
-        "system": "LiveraDoll",
-        "name": "紫縞のリヴラドール",
-        "sort_key": "りうらとおる"
-      },
-      {
         "system": "Ryutama",
         "name": "りゅうたま",
         "sort_key": "りゆうたま"
@@ -764,19 +804,24 @@
         "sort_key": "れこおとおふすちいむ"
       },
       {
+        "system": "RecordOfLodossWar",
+        "name": "ロードス島戦記RPG",
+        "sort_key": "ろおとすとうせんきRPG"
+      },
+      {
         "system": "RoleMaster",
         "name": "ロールマスター",
         "sort_key": "ろおるますたあ"
       },
       {
         "system": "LogHorizon",
-        "name": "ログ・ホライズン",
-        "sort_key": "ろくほらいすん"
+        "name": "ログ・ホライズンTRPG",
+        "sort_key": "ろくほらいすんTRPG"
       },
       {
         "system": "RokumonSekai2",
-        "name": "六門世界2nd",
-        "sort_key": "ろくもんせかい2"
+        "name": "六門世界RPG セカンドエディション",
+        "sort_key": "ろくもんせかいRPG2"
       },
       {
         "system": "LostRecord",
@@ -802,7 +847,7 @@
       },
       {
         "system": "WorldOfDarkness",
-        "name": "ワールドオブダークネス",
+        "name": "ワールド・オブ・ダークネス",
         "sort_key": "わあるとおふたあくねす"
       }
     ],
@@ -831,6 +876,11 @@
         "system": "DetatokoSaga:Korean",
         "name": "데타토코 사가",
         "sort_key": "国際化:Korean:데타토코 사가"
+      },
+      {
+        "system": "FutariSousa:Korean",
+        "name": "둘이서 수사(후타리소우사)",
+        "sort_key": "国際化:Korean:둘이서 수사"
       },
       {
         "system": "Dracurouge:Korean",
