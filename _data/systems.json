@@ -1,5 +1,5 @@
 {
-  "version": "2.07.01",
+  "version": "2.08.00",
   "systems": {
     "あ": [
       {
@@ -79,7 +79,7 @@
       },
       {
         "system": "VampireTheMasquerade5th",
-        "name": "ヴァンパイア：ザ マスカレード 第５版",
+        "name": "Vampire: The Masquerade 5th Edition",
         "sort_key": "うあんはいあさますかれえと5"
       },
       {
@@ -268,6 +268,11 @@
         "system": "Avandner",
         "name": "黒絢のアヴァンドナー",
         "sort_key": "こつけんのあうあんとなあ"
+      },
+      {
+        "system": "GoblinSlayer",
+        "name": "ゴブリンスレイヤーTRPG",
+        "sort_key": "こふりんすれいやあTRPG"
       },
       {
         "system": "Gorilla",
@@ -794,6 +799,11 @@
         "sort_key": "りゆうたま"
       },
       {
+        "system": "RyuTuber",
+        "name": "リューチューバーとちいさな奇跡",
+        "sort_key": "りゆうちゆうはあとちいさなきせき"
+      },
+      {
         "system": "RuneQuest",
         "name": "ルーンクエスト",
         "sort_key": "るうんくえすと"
@@ -873,6 +883,11 @@
         "sort_key": "国際化:Korean:네크로니카"
       },
       {
+        "system": "DoubleCross:Korean",
+        "name": "더블크로스2nd,3rd",
+        "sort_key": "国際化:Korean:더블크로스"
+      },
+      {
         "system": "DetatokoSaga:Korean",
         "name": "데타토코 사가",
         "sort_key": "国際化:Korean:데타토코 사가"
@@ -903,6 +918,11 @@
         "sort_key": "国際化:Korean:비기닝 아이돌"
       },
       {
+        "system": "StratoShout:Korean",
+        "name": "스트라토 샤우트",
+        "sort_key": "国際化:Korean:스트라토 샤우트"
+      },
+      {
         "system": "Amadeus:Korean",
         "name": "아마데우스",
         "sort_key": "国際化:Korean:아마데우스"
@@ -926,6 +946,11 @@
         "system": "Cthulhu:Korean",
         "name": "크툴루",
         "sort_key": "国際化:Korean:크툴루의부름7"
+      },
+      {
+        "system": "Fiasco:Korean",
+        "name": "피아스코",
+        "sort_key": "国際化:Korean:피아스코"
       }
     ]
   }
