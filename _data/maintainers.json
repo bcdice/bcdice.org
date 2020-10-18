@@ -1,0 +1,32 @@
+{
+  "maintainers": [
+    {
+      "name": "酒田　シンジ",
+      "github": "ysakasin",
+      "repos": "BCDice, bcdice-api",
+      "donation-email": "ysakasin@gmail.com",
+      "wish-list": "https://www.amazon.co.jp/registry/wishlist/5JMMEZB8K4YY"
+    },
+    {
+      "name": "ocha",
+      "github": "ochaochaocha3",
+      "repos": "BCDice, bcdice-irc",
+      "donation-email": "ochaochaocha3@gmail.com",
+      "wish-list": null
+    },
+    {
+      "name": "エスニヤ",
+      "github": "esnya",
+      "repos": "bcdice-js",
+      "donation-email": "gift@nekometer.com",
+      "wish-list": "http://amzn.asia/78YBlZL"
+    },
+    {
+      "name": "鯉",
+      "github": "koi-chan",
+      "repos": "api-status",
+      "donation-email": null,
+      "wish-list": null
+    }
+  ]
+}

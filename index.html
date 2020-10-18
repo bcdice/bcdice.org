@@ -28,7 +28,7 @@ layout: default
   </section>
 
   <section>
-    <h2>対応ゲームシステム</h2>
+    <h2 id="game-systems">対応ゲームシステム</h2>
     <ul class="newline-hint">
       <li><span>クトゥルフ神話TRPG,</span> <span>新クトゥルフ神話TRPG</span></li>
       <li>ソード・ワールドRPG, 2.0, 2.5</li>
@@ -49,7 +49,7 @@ layout: default
   </section>
 
   <section>
-  <h2>要望・バグ報告・お問い合わせ</h2>
+  <h2 id="bug-report">要望・バグ報告・お問い合わせ</h2>
   <p>BCDiceはコミュニティで開発をしており、要望やバグ報告、未対応システムへのソースコード寄稿等を歓迎しています。以下のいずれかの方法でご連絡ください。</p>
   <ul>
     <li><a href="{{ site.discord_invite_url }}">Discord</a> (迷ったらここ！)</li>
@@ -60,7 +60,31 @@ layout: default
   </section>
 
   <section>
-    <h2>BCDiceの来歴</h2>
+    <h2 id="history">BCDiceの来歴</h2>
     <p>BCDiceは<a href="https://twitter.com/Faceless192x">Faceless</a>によってIRCボットとして作成されました。それを、<a href="https://twitter.com/torgtaitai">たいたい竹流</a>がどどんとふで利用したことで広く普及しました。その後はどどんとふと一体となって管理されてきましたが、どどんとふの開発終了に伴い<a href="https://twitter.com/ysakasin">酒田　シンジ</a>がBCDiceのメンテナンスを引き継ぎ、現在に至ります。</p>
+  </section>
+
+  <section>
+    <h2 id="donation">活動支援先</h2>
+    {% for maintainer in site.data.maintainers.maintainers %}
+    <div class="maintainer">
+      <img class="icon" src="https://github.com/{{ maintainer.github }}.png">
+      <div class="info">
+        <h3>{{ maintainer.name }}</h3>
+        <span>{{ maintainer.repos }}</span>
+        <ul>
+          {% if maintainer.donation-email %}
+            <li>Amazonギフト券 送付先: {{ maintainer.donation-email }}</li>
+          {% endif %}
+          {% if maintainer.wish-list %}
+            <li><a href="{{ maintainer.wish-list }}">Amazonほしい物リスト</a></li>
+          {% endif %}
+          {% if maintainer.donation-email == nil and maintainer.wish-list == nil %}
+            <li>支援は受け付けておりません</li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+    {% endfor %}
   </section>
 </article>

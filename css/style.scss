@@ -98,11 +98,11 @@ header {
   .discord {
     background-color: #7289DA;
   }
-  
+
   .google-forms {
     background-color: rgb(103, 58, 183);
   }
-  
+
   .github {
     background-color: #24292e;
   }
@@ -151,19 +151,19 @@ article {
     margin-top: 1rem;
     margin-bottom: 1rem;
   }
-  
+
   h2 {
     font-size: 1.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
     border-bottom: 1px solid #ddd
   }
-  
+
   p {
     margin-top: 0;
     margin-bottom: 1rem;
   }
-  
+
   img {
     max-width: 100%;
   }
@@ -171,6 +171,32 @@ article {
   section.summary p {
     font-size: 1.3rem;
   }
+}
+
+.maintainer {
+  display: flex !important;
+
+  .icon {
+    margin-top: 4px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .info {
+    margin-left: 18px;
+    ul {
+      padding-left: 24px;
+    }
+  }
+
+  h3{
+    margin-top: 0;
+    margin-bottom: 0.2em;
+  }
+}
+
+.maintainer + .maintainer {
+  margin-top: 30px;
 }
 
 footer {
@@ -212,7 +238,7 @@ footer {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
   }
-  
+
   .intro {
     .flex {
       flex-direction: column;
