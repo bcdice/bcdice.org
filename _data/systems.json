@@ -1,5 +1,5 @@
 {
-  "version": "2.08.00",
+  "version": "3.0.0",
   "systems": {
     "あ": [
       {
@@ -48,6 +48,11 @@
         "sort_key": "ありてあまねくおるかれいん"
       },
       {
+        "system": "AlchemiaStruggle",
+        "name": "アルケミア・ストラグル",
+        "sort_key": "あるけみあすとらくる"
+      },
+      {
         "system": "Alshard",
         "name": "アルシャード",
         "sort_key": "あるしやあと"
@@ -61,6 +66,11 @@
         "system": "AlterRaise",
         "name": "アルトレイズ",
         "sort_key": "あるとれいす"
+      },
+      {
+        "system": "UnsungDuet",
+        "name": "アンサング・デュエット",
+        "sort_key": "あんさんくてゆえつと"
       },
       {
         "system": "IthaWenUa",
@@ -93,6 +103,11 @@
         "sort_key": "うおおはんまあ"
       },
       {
+        "system": "Warhammer4",
+        "name": "ウォーハンマーRPG第4版",
+        "sort_key": "うおおはんまあ4"
+      },
+      {
         "system": "Utakaze",
         "name": "ウタカゼ",
         "sort_key": "うたかせ"
@@ -113,9 +128,19 @@
         "sort_key": "えくりふすふえいす"
       },
       {
+        "system": "NSSQ",
+        "name": "SRSじゃない世界樹の迷宮TRPG",
+        "sort_key": "えすああるえすしやないせかいしゆのめいきゆうTRPG"
+      },
+      {
         "system": "EmbryoMachine",
         "name": "エムブリオマシンRPG",
         "sort_key": "えむふりおましんRPG"
+      },
+      {
+        "system": "Emoklore",
+        "name": "エモクロア",
+        "sort_key": "えもくろあ"
       },
       {
         "system": "Elysion",
@@ -178,6 +203,11 @@
         "system": "Kamigakari",
         "name": "神我狩",
         "sort_key": "かみかかり"
+      },
+      {
+        "system": "Comes",
+        "name": "カムズ",
+        "sort_key": "かむす"
       },
       {
         "system": "Garako",
@@ -255,6 +285,11 @@
         "sort_key": "けんのまちのいほうしんTRPG"
       },
       {
+        "system": "Yggdrasill",
+        "name": "鋼鉄のユグドラシル",
+        "sort_key": "こうてつのゆくとらしる"
+      },
+      {
         "system": "Illusio",
         "name": "晃天のイルージオ",
         "sort_key": "こうてんのいるうしお"
@@ -312,6 +347,11 @@
         "sort_key": "しええむすほんと007"
       },
       {
+        "system": "JekyllAndHyde",
+        "name": "ジキルとハイドとグリトグラ",
+        "sort_key": "しきるとはいととくりとくら"
+      },
+      {
         "system": "LiveraDoll",
         "name": "紫縞のリヴラドール",
         "sort_key": "ししまのりうらとおる"
@@ -337,9 +377,19 @@
         "sort_key": "しやとうらん5"
       },
       {
+        "system": "JuinKansen",
+        "name": "呪印感染",
+        "sort_key": "しゆいんかんせん"
+      },
+      {
         "system": "ShoujoTenrankai",
         "name": "少女展爛会TRPG",
         "sort_key": "しようしよてんらんかいTRPG"
+      },
+      {
+        "system": "InfiniteBabeL",
+        "name": "少年のための少女展爛会異聞 Infinite BabeL",
+        "sort_key": "しようねんのためのしようしよてんらんかいいふんいんふいにつとはへる"
       },
       {
         "system": "ShinkuuGakuen",
@@ -352,7 +402,7 @@
         "sort_key": "しんくとうるふしんわTRPG"
       },
       {
-        "system": "SMTKakuseihen",
+        "system": "ShinMegamiTenseiKakuseihen",
         "name": "真・女神転生TRPG 覚醒篇",
         "sort_key": "しんめかみてんせいTRPGかくせいへん"
       },
@@ -479,6 +529,11 @@
         "sort_key": "ついらくせかい"
       },
       {
+        "system": "DesperateRun",
+        "name": "Desperate Run TRPG",
+        "sort_key": "てすへれいとらんTRPG"
+      },
+      {
         "system": "DetatokoSaga",
         "name": "でたとこサーガ",
         "sort_key": "てたとこさあか"
@@ -504,12 +559,12 @@
         "sort_key": "とおきよおのは"
       },
       {
-        "system": "TORG",
+        "system": "Torg",
         "name": "トーグ",
         "sort_key": "とおく"
       },
       {
-        "system": "TORG1.5",
+        "system": "Torg1.5",
         "name": "トーグ1.5版",
         "sort_key": "とおく1.5"
       },
@@ -566,7 +621,7 @@
         "sort_key": "にんしやすれいやあRPG"
       },
       {
-        "system": "NJSLYRBATTLE",
+        "system": "NjslyrBattle",
         "name": "NJSLYRBATTLE",
         "sort_key": "にんしやすれいやあはとる"
       },
@@ -804,6 +859,11 @@
         "sort_key": "りゆうちゆうはあとちいさなきせき"
       },
       {
+        "system": "RuinBreakers",
+        "name": "ルーインブレイカーズ",
+        "sort_key": "るういんふれいかあす"
+      },
+      {
         "system": "RuneQuest",
         "name": "ルーンクエスト",
         "sort_key": "るうんくえすと"
@@ -906,6 +966,11 @@
         "system": "LogHorizon:Korean",
         "name": "로그 호라이즌",
         "sort_key": "国際化:Korean:로그 호라이즌"
+      },
+      {
+        "system": "MagicaLogia:Korean",
+        "name": "마기카로기아",
+        "sort_key": "国際化:Korean:마기카로기아"
       },
       {
         "system": "MonotoneMuseum:Korean",
