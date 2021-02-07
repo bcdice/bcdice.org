@@ -32,6 +32,10 @@ body {
   display: flex;
 }
 
+.flex {
+  align-items: flex-start;
+}
+
 
 .newline-hint span {
   display: inline-block;
@@ -80,6 +84,7 @@ header {
   flex: 2;
   box-sizing: border-box;
   margin-left: 1rem;
+  margin-bottom: 1rem;
   padding: 1rem 1.5rem;
   background-color: #fff;
   border: solid 1px #ccc;
@@ -107,6 +112,10 @@ header {
     background-color: #24292e;
   }
 
+  .docs {
+    background-color: #546E7A;
+  }
+
   svg {
     fill: #ffffff;
   }
@@ -130,9 +139,19 @@ header {
       padding-left: 0.3rem;
     }
 
+    &:last-child {
+      margin-bottom: 1rem;
+    }
+
     &:hover {
       opacity: 0.8;
     }
+  }
+}
+
+.intro {
+  .container {
+    padding-bottom: 0rem;
   }
 }
 

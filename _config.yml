@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -34,6 +34,7 @@ discord_invite_url: https://discord.gg/D5CazXH
 google_forms_url: https://forms.gle/yquupEAKbBTHzYF8A
 github_repo_url: https://github.com/bcdice/BCDice
 github_org_url: https://github.com/bcdice
+docs_url: https://docs.bcdice.org
 
 # Build settings
 # theme: minima
