@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.1.2",
   "systems": {
     "あ": [
       {
@@ -153,6 +153,11 @@
         "sort_key": "えるりつく"
       },
       {
+        "system": "AngelGear",
+        "name": "エンゼルギア 天使大戦TRPG The 2nd Editon",
+        "sort_key": "えんせるきあ2"
+      },
+      {
         "system": "EndBreaker",
         "name": "エンドブレイカー！",
         "sort_key": "えんとふれいかあ"
@@ -278,11 +283,6 @@
         "system": "KemonoNoMori",
         "name": "獸ノ森",
         "sort_key": "けもののもり"
-      },
-      {
-        "system": "StrangerOfSwordCity",
-        "name": "剣の街の異邦人TRPG",
-        "sort_key": "けんのまちのいほうしんTRPG"
       },
       {
         "system": "Yggdrasill",
@@ -527,6 +527,11 @@
         "system": "CrashWorld",
         "name": "墜落世界",
         "sort_key": "ついらくせかい"
+      },
+      {
+        "system": "StrangerOfSwordCity",
+        "name": "剣の街の異邦人TRPG",
+        "sort_key": "つるきのまちのいほうしんTRPG"
       },
       {
         "system": "DesperateRun",
@@ -807,7 +812,7 @@
       {
         "system": "MeikyuKingdomBasic",
         "name": "迷宮キングダム 基本ルールブック",
-        "sort_key": "めいきゆうきんくたむ きほんるうるふつく"
+        "sort_key": "めいきゆうきんくたむきほんるうるふつく"
       },
       {
         "system": "MeikyuDays",
@@ -923,14 +928,14 @@
     ],
     "International": [
       {
-        "system": "Cthulhu7th:ChineseTraditional",
-        "name": "克蘇魯神話第7版",
+        "system": "Cthulhu:ChineseTraditional",
+        "name": "克蘇魯神話",
         "sort_key": "国際化:Chinese Traditional:克蘇魯神話"
       },
       {
-        "system": "Cthulhu:ChineseTraditional",
-        "name": "克蘇魯神話",
-        "sort_key": "国際化:Chinese Traditional:克蘇魯神話7"
+        "system": "Cthulhu7th:ChineseTraditional",
+        "name": "克蘇魯神話第7版",
+        "sort_key": "国際化:Chinese Traditional:克蘇魯神話第7版"
       },
       {
         "system": "KillDeathBusiness:Korean",
@@ -1003,14 +1008,14 @@
         "sort_key": "国際化:Korean:카미가카리"
       },
       {
-        "system": "Cthulhu7th:Korean",
-        "name": "크툴루의 부름 7판",
+        "system": "Cthulhu:Korean",
+        "name": "크툴루",
         "sort_key": "国際化:Korean:크툴루"
       },
       {
-        "system": "Cthulhu:Korean",
-        "name": "크툴루",
-        "sort_key": "国際化:Korean:크툴루의부름7"
+        "system": "Cthulhu7th:Korean",
+        "name": "크툴루의 부름 7판",
+        "sort_key": "国際化:Korean:크툴루의 부름 7판"
       },
       {
         "system": "Fiasco:Korean",
