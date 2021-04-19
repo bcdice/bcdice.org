@@ -5,7 +5,7 @@ layout: default
 ---
 <article class="container">
   <h1>対応ゲームシステム一覧</h1>
-  <p>BCDice Ver{{ site.data.systems.version }}</p>
+  <p>BCDice {{ site.data.systems.version }}</p>
   <div>
   {% for category in site.data.systems.systems %}
   <a href="#{{ category[0] }}">{{ category[0] }}</a>
