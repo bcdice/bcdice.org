@@ -1,5 +1,5 @@
 {
-  "version": "3.1.2",
+  "version": "3.2.0",
   "systems": {
     "あ": [
       {
@@ -133,14 +133,19 @@
         "sort_key": "えすああるえすしやないせかいしゆのめいきゆうTRPG"
       },
       {
+        "system": "Ainecadette",
+        "name": "エネカデット",
+        "sort_key": "えねかてつと"
+      },
+      {
         "system": "EmbryoMachine",
         "name": "エムブリオマシンRPG",
         "sort_key": "えむふりおましんRPG"
       },
       {
         "system": "Emoklore",
-        "name": "エモクロア",
-        "sort_key": "えもくろあ"
+        "name": "エモクロアTRPG",
+        "sort_key": "えもくろあTRPG"
       },
       {
         "system": "Elysion",
@@ -285,6 +290,11 @@
         "sort_key": "けもののもり"
       },
       {
+        "system": "Revulture",
+        "name": "光砕のリヴァルチャー",
+        "sort_key": "こうさいのりうあるちやあ"
+      },
+      {
         "system": "Yggdrasill",
         "name": "鋼鉄のユグドラシル",
         "sort_key": "こうてつのゆくとらしる"
@@ -407,11 +417,6 @@
         "sort_key": "しんめかみてんせいTRPGかくせいへん"
       },
       {
-        "system": "Skynauts",
-        "name": "歯車の塔の探空士",
-        "sort_key": "すかいのおつ"
-      },
-      {
         "system": "ScreamHighSchool",
         "name": "スクリームハイスクール",
         "sort_key": "すくりいむはいすくうる"
@@ -463,17 +468,17 @@
       },
       {
         "system": "SwordWorld",
-        "name": "ソードワールドRPG",
+        "name": "ソード・ワールドRPG",
         "sort_key": "そおとわあると"
       },
       {
         "system": "SwordWorld2.0",
-        "name": "ソードワールド2.0",
+        "name": "ソード・ワールド2.0",
         "sort_key": "そおとわあると2.0"
       },
       {
         "system": "SwordWorld2.5",
-        "name": "ソードワールド2.5",
+        "name": "ソード・ワールド2.5",
         "sort_key": "そおとわあると2.5"
       }
     ],
@@ -653,6 +658,16 @@
         "sort_key": "はあんますたあ"
       },
       {
+        "system": "Skynauts",
+        "name": "歯車の塔の探空士（六畳間幻想空間）",
+        "sort_key": "はくるまのとうのすかいのおつ"
+      },
+      {
+        "system": "SkynautsBouken",
+        "name": "歯車の塔の探空士（冒険企画局）",
+        "sort_key": "はくるまのとうのすかいのおつ2"
+      },
+      {
         "system": "Pathfinder",
         "name": "Pathfinder",
         "sort_key": "はすふあいんたあ"
@@ -764,7 +779,7 @@
       },
       {
         "system": "BloodMoon",
-        "name": "ブラッド・ムーン",
+        "name": "ブラッドムーン",
         "sort_key": "ふらつとむうん"
       },
       {
