@@ -17,15 +17,15 @@ layout: default
   <table class="system-list">
     <thead>
       <tr>
-        <th>名前</th>
-        <th>ID</th>
+        <th class="system-name">名前</th>
+        <th class="system-id">ID</th>
       </tr>
     </thead>
     <tbody>
     {% for system in category[1] %}
       <tr>
-        <td>{{ system.name }}</td>
-        <td>{{ system.system }}</td>
+        <td class="system-name">{{ system.name }}</td>
+        <td class="system-id">{{ system.system }}</td>
       </tr>
     {% endfor %}
     </tbody>
