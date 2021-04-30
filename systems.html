@@ -14,10 +14,21 @@ layout: default
 
   {% for category in site.data.systems.systems %}
   <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
-  <ul>
+  <table class="system-list">
+    <thead>
+      <tr>
+        <th>名前</th>
+        <th>ID</th>
+      </tr>
+    </thead>
+    <tbody>
     {% for system in category[1] %}
-    <li>{{ system.name }}</li>
+      <tr>
+        <td>{{ system.name }}</td>
+        <td>{{ system.system }}</td>
+      </tr>
     {% endfor %}
-  </ul>
+    </tbody>
+  </table>
   {% endfor %}
 </article>
