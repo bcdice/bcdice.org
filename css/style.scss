@@ -190,6 +190,36 @@ article {
   section.summary p {
     font-size: 1.3rem;
   }
+
+  table.system-list {
+    width: 100%;
+    border-collapse: collapse;
+
+    th, td {
+      padding: 0.3rem 0.5rem;
+      border: 1px solid #ccc;
+      text-align: left;
+      word-break: break-all;
+    }
+
+    th {
+      font-weight: 600;
+    }
+
+    .system-name {
+      width: 60%;
+    }
+
+    .system-id {
+      width: 40%;
+    }
+
+    tbody {
+      tr:nth-child(odd) {
+        background-color: #f1f1f1;
+      }
+    }
+  }
 }
 
 .maintainer {
