@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0",
+  "version": "3.3.0",
   "systems": {
     "あ": [
       {
@@ -420,6 +420,11 @@
         "system": "ScreamHighSchool",
         "name": "スクリームハイスクール",
         "sort_key": "すくりいむはいすくうる"
+      },
+      {
+        "system": "StarryDolls",
+        "name": "スタリィドール",
+        "sort_key": "すたりいとおる"
       },
       {
         "system": "SRS",
@@ -1013,6 +1018,11 @@
         "sort_key": "国際化:Korean:아마데우스"
       },
       {
+        "system": "StellarKnights:Korean",
+        "name": "은검의 스텔라나이츠",
+        "sort_key": "国際化:Korean:은검의 스텔라나이츠"
+      },
+      {
         "system": "Insane:Korean",
         "name": "인세인",
         "sort_key": "国際化:Korean:인세인"
@@ -1036,6 +1046,11 @@
         "system": "Fiasco:Korean",
         "name": "피아스코",
         "sort_key": "国際化:Korean:피아스코"
+      },
+      {
+        "system": "MagicaLogia:SimplifiedChinese",
+        "name": "魔导书大战",
+        "sort_key": "国際化:Simplified Chinese:魔导书大战"
       }
     ]
   }
