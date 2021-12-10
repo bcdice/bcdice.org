@@ -1,5 +1,5 @@
 {
-  "version": "3.3.0",
+  "version": "3.5.0",
   "systems": {
     "あ": [
       {
@@ -18,9 +18,19 @@
         "sort_key": "ああすとおん4"
       },
       {
+        "system": "Aoharubaan",
+        "name": "あおはるばーんっ",
+        "sort_key": "あおはるはあんつ"
+      },
+      {
         "system": "Airgetlamh",
         "name": "朱の孤塔のエアゲトラム",
         "sort_key": "あけのことうのえあけとらむ"
+      },
+      {
+        "system": "AssaultEngine",
+        "name": "アサルトエンジン",
+        "sort_key": "あさるとえんしん"
       },
       {
         "system": "AFF2e",
@@ -225,6 +235,11 @@
         "sort_key": "からことはかいのとう"
       },
       {
+        "system": "Karukami",
+        "name": "カルカミ",
+        "sort_key": "かるかみ"
+      },
+      {
         "system": "KanColle",
         "name": "艦これRPG",
         "sort_key": "かんこれRPG"
@@ -342,6 +357,11 @@
         "sort_key": "さたすへ"
       },
       {
+        "system": "TalesFromTheLoop",
+        "name": "ザ・ループTRPG",
+        "sort_key": "さるうふTRPG"
+      },
+      {
         "system": "SamsaraBallad",
         "name": "サンサーラ・バラッド",
         "sort_key": "さんさあらはらつと"
@@ -437,7 +457,7 @@
         "sort_key": "すちいむはんかあす"
       },
       {
-        "system": "SterileLife",
+        "system": "StellarLife",
         "name": "ステラーライフTRPG",
         "sort_key": "すてらあらいふTRPG"
       },
@@ -585,13 +605,18 @@
       },
       {
         "system": "TorgEternity",
-        "name": "TORG Eternity",
-        "sort_key": "とおくえたあにてい"
+        "name": "トーグ エタニティ",
+        "sort_key": "とおくえたにてい"
       },
       {
         "system": "TokumeiTenkousei",
         "name": "特命転攻生",
         "sort_key": "とくめいてんこうせい"
+      },
+      {
+        "system": "ToshiakiHolyGrailWar",
+        "name": "としあきの聖杯戦争TRPG",
+        "sort_key": "としあきのせいはいせんそうTRPG"
       },
       {
         "system": "Dracurouge",
@@ -663,6 +688,11 @@
         "sort_key": "はあんますたあ"
       },
       {
+        "system": "CastleInGray",
+        "name": "灰色城綺譚",
+        "sort_key": "はいいろしようきたん"
+      },
+      {
         "system": "Skynauts",
         "name": "歯車の塔の探空士（六畳間幻想空間）",
         "sort_key": "はくるまのとうのすかいのおつ"
@@ -671,6 +701,11 @@
         "system": "SkynautsBouken",
         "name": "歯車の塔の探空士（冒険企画局）",
         "sort_key": "はくるまのとうのすかいのおつ2"
+      },
+      {
+        "system": "Bakenokawa",
+        "name": "バケノカワ",
+        "sort_key": "はけのかわ"
       },
       {
         "system": "Pathfinder",
@@ -753,6 +788,11 @@
         "sort_key": "ひきにんくあいとる"
       },
       {
+        "system": "Irisbane",
+        "name": "瞳逸らさぬイリスベイン",
+        "sort_key": "ひとみそらさぬいりすへいん"
+      },
+      {
         "system": "PhantasmAdventure",
         "name": "ファンタズム・アドベンチャー",
         "sort_key": "ふあんたすむあとへんちやあ"
@@ -766,6 +806,11 @@
         "system": "FilledWith",
         "name": "フィルトウィズ",
         "sort_key": "ふいるとういす"
+      },
+      {
+        "system": "FateCoreSystem",
+        "name": "Fate Core System",
+        "sort_key": "ふえいとこあしすてむ"
       },
       {
         "system": "FutariSousa",
@@ -801,6 +846,11 @@
         "system": "Strave",
         "name": "碧空のストレイヴ",
         "sort_key": "へきくうのすとれいふ"
+      },
+      {
+        "system": "PersonaO",
+        "name": "ペルソナTRPG-O",
+        "sort_key": "へるそなTRPGO"
       },
       {
         "system": "Pendragon",
@@ -1046,6 +1096,11 @@
         "system": "Fiasco:Korean",
         "name": "피아스코",
         "sort_key": "国際化:Korean:피아스코"
+      },
+      {
+        "system": "Cthulhu:SimplifiedChinese",
+        "name": "克苏鲁的呼唤 第六版",
+        "sort_key": "国際化:Simplified Chinese:克苏鲁的呼唤 第六版"
       },
       {
         "system": "MagicaLogia:SimplifiedChinese",
