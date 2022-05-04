@@ -1,5 +1,5 @@
 {
-  "version": "3.5.0",
+  "version": "3.6.0",
   "systems": {
     "あ": [
       {
@@ -46,6 +46,11 @@
         "system": "Amadeus",
         "name": "アマデウス",
         "sort_key": "あまてうす"
+      },
+      {
+        "system": "Ayabito",
+        "name": "あやびと",
+        "sort_key": "あやひと"
       },
       {
         "system": "Arianrhod",
@@ -352,6 +357,11 @@
     ],
     "さ": [
       {
+        "system": "CyberpunkRed",
+        "name": "サイバーパンクRED",
+        "sort_key": "さいはあはんくれつと"
+      },
+      {
         "system": "Satasupe",
         "name": "サタスペ",
         "sort_key": "さたすへ"
@@ -412,6 +422,11 @@
         "sort_key": "しゆいんかんせん"
       },
       {
+        "system": "ShuumatsuKikou",
+        "name": "終末紀行ＲＰＧ",
+        "sort_key": "しゆうまつきこう"
+      },
+      {
         "system": "ShoujoTenrankai",
         "name": "少女展爛会TRPG",
         "sort_key": "しようしよてんらんかいTRPG"
@@ -420,6 +435,11 @@
         "system": "InfiniteBabeL",
         "name": "少年のための少女展爛会異聞 Infinite BabeL",
         "sort_key": "しようねんのためのしようしよてんらんかいいふんいんふいにつとはへる"
+      },
+      {
+        "system": "Shiranui",
+        "name": "不知火",
+        "sort_key": "しらぬい"
       },
       {
         "system": "ShinkuuGakuen",
