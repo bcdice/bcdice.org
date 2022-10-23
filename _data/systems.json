@@ -1,5 +1,5 @@
 {
-  "version": "3.6.0",
+  "version": "3.7.0",
   "systems": {
     "あ": [
       {
@@ -93,6 +93,11 @@
         "sort_key": "いさあうえんああ"
       },
       {
+        "system": "IfIfIf",
+        "name": "イフ・イフ・イフ",
+        "sort_key": "いふいふいふ"
+      },
+      {
         "system": "YearZeroEngine",
         "name": "YearZeroEngine",
         "sort_key": "いやあせろえんしん"
@@ -106,6 +111,11 @@
         "system": "VampireTheMasquerade5th",
         "name": "Vampire: The Masquerade 5th Edition",
         "sort_key": "うあんはいあさますかれえと5"
+      },
+      {
+        "system": "VisionConnect",
+        "name": "ヴィジョンコネクト",
+        "sort_key": "ういしよんこねくと"
       },
       {
         "system": "WitchQuest",
@@ -275,6 +285,11 @@
         "sort_key": "きんけんのすてらないつ"
       },
       {
+        "system": "Kutulu",
+        "name": "Kutulu",
+        "sort_key": "くとうるう"
+      },
+      {
         "system": "Cthulhu",
         "name": "クトゥルフ神話TRPG",
         "sort_key": "くとうるふしんわTRPG"
@@ -397,6 +412,11 @@
         "sort_key": "ししまのりうらとおる"
       },
       {
+        "system": "GhostLive",
+        "name": "実況ゴーストライヴ",
+        "sort_key": "しつきようこおすとらいふ"
+      },
+      {
         "system": "ShinobiGami",
         "name": "シノビガミ",
         "sort_key": "しのひかみ"
@@ -505,6 +525,11 @@
         "system": "TherapieSein",
         "name": "セラフィザイン",
         "sort_key": "せらふいさいん"
+      },
+      {
+        "system": "Sengensyou",
+        "name": "千幻抄",
+        "sort_key": "せんけんしよう"
       },
       {
         "system": "Villaciel",
@@ -806,6 +831,11 @@
         "system": "BeginningIdol",
         "name": "ビギニングアイドル",
         "sort_key": "ひきにんくあいとる"
+      },
+      {
+        "system": "BeginningIdol2022",
+        "name": "ビギニングアイドル（2022年改訂版）",
+        "sort_key": "ひきにんくあいとる2022"
       },
       {
         "system": "Irisbane",
