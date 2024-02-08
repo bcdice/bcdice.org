@@ -1,7 +1,12 @@
 {
-  "version": "3.7.0",
+  "version": "3.13.0",
   "systems": {
     "あ": [
+      {
+        "system": "ArknightsFan",
+        "name": "アークナイツTRPG by Dapto",
+        "sort_key": "ああくないつTRPGはいたふと"
+      },
       {
         "system": "EarthDawn",
         "name": "アースドーン",
@@ -41,6 +46,11 @@
         "system": "AnimaAnimus",
         "name": "アニマアニムス",
         "sort_key": "あにまあにむす"
+      },
+      {
+        "system": "AniMalus",
+        "name": "アニマラス",
+        "sort_key": "あにまらす"
       },
       {
         "system": "Amadeus",
@@ -123,6 +133,11 @@
         "sort_key": "ういつちくえすと"
       },
       {
+        "system": "Ventangle",
+        "name": "Ventangle",
+        "sort_key": "うえんたんくる"
+      },
+      {
         "system": "Warhammer",
         "name": "ウォーハンマー",
         "sort_key": "うおおはんまあ"
@@ -143,6 +158,11 @@
         "sort_key": "うたかたのあるせつと"
       },
       {
+        "system": "HeroScale",
+        "name": "英雄の尺度",
+        "sort_key": "えいゆうのしやくと"
+      },
+      {
         "system": "AceKillerGene",
         "name": "エースキラージーン",
         "sort_key": "ええすきらあしいん"
@@ -156,6 +176,11 @@
         "system": "NSSQ",
         "name": "SRSじゃない世界樹の迷宮TRPG",
         "sort_key": "えすああるえすしやないせかいしゆのめいきゆうTRPG"
+      },
+      {
+        "system": "NRR",
+        "name": "nRR",
+        "sort_key": "えぬああるあある"
       },
       {
         "system": "Ainecadette",
@@ -240,6 +265,11 @@
         "sort_key": "かみかかり"
       },
       {
+        "system": "KamitsubakiCityUnderConstructionNarrative",
+        "name": "神椿市建設中。NARRATIVE",
+        "sort_key": "かみつはきしけんせつちゆうならていふ"
+      },
+      {
         "system": "Comes",
         "name": "カムズ",
         "sort_key": "かむす"
@@ -260,6 +290,11 @@
         "sort_key": "かんこれRPG"
       },
       {
+        "system": "GundamSentinel",
+        "name": "ガンダム・センチネルRPG",
+        "sort_key": "かんたむせんちねる"
+      },
+      {
         "system": "Gundog",
         "name": "ガンドッグ",
         "sort_key": "かんとつく"
@@ -273,6 +308,11 @@
         "system": "GundogRevised",
         "name": "ガンドッグ・リヴァイズド",
         "sort_key": "かんとつくりうあいすと"
+      },
+      {
+        "system": "KyokoShinshoku",
+        "name": "虚構侵蝕TRPG",
+        "sort_key": "きよこうしんしよくTRPG"
       },
       {
         "system": "KillDeathBusiness",
@@ -368,6 +408,11 @@
         "system": "Postman",
         "name": "壊れた世界のポストマン",
         "sort_key": "こわれたせかいのほすとまん"
+      },
+      {
+        "system": "ConvictorDrive",
+        "name": "コンヴィクター・ドライブ",
+        "sort_key": "こんういくたあとらいふ"
       }
     ],
     "さ": [
@@ -375,6 +420,16 @@
         "system": "CyberpunkRed",
         "name": "サイバーパンクRED",
         "sort_key": "さいはあはんくれつと"
+      },
+      {
+        "system": "SajinsenkiAGuS",
+        "name": "砂塵戦機アーガス",
+        "sort_key": "さしんせんきああかす"
+      },
+      {
+        "system": "SajinsenkiAGuS2E",
+        "name": "砂塵戦機アーガス2ndEdition",
+        "sort_key": "さしんせんきああかす2"
       },
       {
         "system": "Satasupe",
@@ -507,6 +562,11 @@
         "sort_key": "すとらとしやうと"
       },
       {
+        "system": "Siren",
+        "name": "終末アイドル育成TRPG セイレーン",
+        "sort_key": "せいれえん"
+      },
+      {
         "system": "EtrianOdysseySRS",
         "name": "世界樹の迷宮SRS",
         "sort_key": "せかいしゆのめいきゆうSRS"
@@ -550,6 +610,11 @@
         "system": "SwordWorld2.5",
         "name": "ソード・ワールド2.5",
         "sort_key": "そおとわあると2.5"
+      },
+      {
+        "system": "ZombiLine",
+        "name": "ゾンビライン",
+        "sort_key": "そんひらいん"
       }
     ],
     "た": [
@@ -582,6 +647,11 @@
         "system": "DungeonsAndDragons",
         "name": "ダンジョンズ＆ドラゴンズ",
         "sort_key": "たんしよんすあんととらこんす"
+      },
+      {
+        "system": "DungeonsAndDragons5",
+        "name": "ダンジョンズ＆ドラゴンズ第5版",
+        "sort_key": "たんしよんすあんととらこんす5"
       },
       {
         "system": "Paradiso",
@@ -624,9 +694,19 @@
         "sort_key": "てつとらいんひいろおすRPG"
       },
       {
+        "system": "DemonSpike",
+        "name": "デモンスパイク",
+        "sort_key": "てもんすはいく"
+      },
+      {
         "system": "DemonParasite",
         "name": "デモンパラサイト",
         "sort_key": "てもんはらさいと"
+      },
+      {
+        "system": "TenkaRyouran",
+        "name": "天下繚乱",
+        "sort_key": "てんかりようらん"
       },
       {
         "system": "TokyoGhostResearch",
@@ -703,7 +783,12 @@
       {
         "system": "NinjaSlayer",
         "name": "ニンジャスレイヤーTRPG",
-        "sort_key": "にんしやすれいやあRPG"
+        "sort_key": "にんしやすれいやあTRPG"
+      },
+      {
+        "system": "NinjaSlayer2",
+        "name": "ニンジャスレイヤーTRPG 2版",
+        "sort_key": "にんしやすれいやあTRPG2"
       },
       {
         "system": "NjslyrBattle",
@@ -724,6 +809,11 @@
         "system": "NeverCloud",
         "name": "ネバークラウドTRPG",
         "sort_key": "ねはあくらうとTRPG"
+      },
+      {
+        "system": "NobunagasBlackCastle",
+        "name": "信長の黒い城",
+        "sort_key": "のふなかのくろいしろ"
       }
     ],
     "は": [
@@ -751,6 +841,11 @@
         "system": "Bakenokawa",
         "name": "バケノカワ",
         "sort_key": "はけのかわ"
+      },
+      {
+        "system": "PastFutureParadox",
+        "name": "パストフューチャーパラドックス",
+        "sort_key": "はすとふゆうちやあはらとつくす"
       },
       {
         "system": "Pathfinder",
@@ -796,6 +891,11 @@
         "system": "PulpCthulhu",
         "name": "パルプ・クトゥルフ",
         "sort_key": "はるふくとうるふ"
+      },
+      {
+        "system": "HunterTheReckoning5th",
+        "name": "Hunter: The Reckoning 5th Edition",
+        "sort_key": "はんあたされこにんく5"
       },
       {
         "system": "Raisondetre",
@@ -883,6 +983,16 @@
         "sort_key": "ふらつとむうん"
       },
       {
+        "system": "Bloodorium",
+        "name": "ブラドリウム",
+        "sort_key": "ふらとりうむ"
+      },
+      {
+        "system": "FullFace",
+        "name": "フルフェイス",
+        "sort_key": "ふるふえいす"
+      },
+      {
         "system": "FullMetalPanic",
         "name": "フルメタル・パニック！RPG",
         "sort_key": "ふるめたるはにつくRPG"
@@ -918,6 +1028,11 @@
         "system": "MagicaLogia",
         "name": "マギカロギア",
         "sort_key": "まきかろきあ"
+      },
+      {
+        "system": "MamonoScramble",
+        "name": "マモノスクランブル",
+        "sort_key": "まものすくらんふる"
       },
       {
         "system": "InfiniteFantasia",
@@ -974,6 +1089,11 @@
     ],
     "ら": [
       {
+        "system": "Liminal",
+        "name": "リミナル",
+        "sort_key": "りみなる"
+      },
+      {
         "system": "Ryutama",
         "name": "りゅうたま",
         "sort_key": "りゆうたま"
@@ -992,6 +1112,11 @@
         "system": "RuneQuest",
         "name": "ルーンクエスト",
         "sort_key": "るうんくえすと"
+      },
+      {
+        "system": "RuneQuestRoleplayingInGlorantha",
+        "name": "ルーンクエスト：ロールプレイング・イン・グローランサ",
+        "sort_key": "るうんくえすと4"
       },
       {
         "system": "RecordOfSteam",
@@ -1031,6 +1156,11 @@
     ],
     "わ": [
       {
+        "system": "WerewolfTheApocalypse5th",
+        "name": "Werewolf: The Apocalypse 5th Edition",
+        "sort_key": "わあうふるしあほかりふす5"
+      },
+      {
         "system": "WaresBlade",
         "name": "ワースブレイド",
         "sort_key": "わあすふれいと"
@@ -1039,6 +1169,11 @@
         "system": "WARPS",
         "name": "ワープス",
         "sort_key": "わあふす"
+      },
+      {
+        "system": "WorldsEndFrontline",
+        "name": "ワールドエンドフロントライン",
+        "sort_key": "わあるとえんとふろんとらいん"
       },
       {
         "system": "WorldOfDarkness",
@@ -1079,7 +1214,7 @@
       },
       {
         "system": "FutariSousa:Korean",
-        "name": "둘이서 수사(후타리소우사)",
+        "name": "둘이서 수사",
         "sort_key": "国際化:Korean:둘이서 수사"
       },
       {
@@ -1151,6 +1286,21 @@
         "system": "Cthulhu:SimplifiedChinese",
         "name": "克苏鲁的呼唤 第六版",
         "sort_key": "国際化:Simplified Chinese:克苏鲁的呼唤 第六版"
+      },
+      {
+        "system": "SwordWorld:SimplifiedChinese",
+        "name": "剑世界",
+        "sort_key": "国際化:Simplified Chinese:剑世界"
+      },
+      {
+        "system": "SwordWorld2.0:SimplifiedChinese",
+        "name": "剑世界2.0",
+        "sort_key": "国際化:Simplified Chinese:剑世界2.0"
+      },
+      {
+        "system": "SwordWorld2.5:SimplifiedChinese",
+        "name": "剑世界2.5",
+        "sort_key": "国際化:Simplified Chinese:剑世界2.5"
       },
       {
         "system": "MagicaLogia:SimplifiedChinese",
